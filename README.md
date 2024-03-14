@@ -8,4 +8,4 @@ Most of the example codes here were used in the project ["Advanced spatial data 
 
 ## EODIE
 
-In addition to my own scripts, I would like to showcase EODIE toolkit developed at the Finnish Geospatial Research Institute (FGI). While EODIE is not a project of mine, I have significant contributions to its development especially related to parallel processing. EODIE is an open source software and can be found from [FGI GitLab](https://gitlab.com/fgi_nls/public/EODIE). EODIE has been used in several projects related to agriculture and forestry - examples can be seen in the presentation uploaded into certificates directory. 
+In addition to my own scripts, I would like to showcase EODIE toolkit developed at the Finnish Geospatial Research Institute (FGI). While EODIE is not a project of mine, I have made significant contributions to its development especially related to parallel processing. EODIE is an open source software and can be found from [FGI GitLab](https://gitlab.com/fgi_nls/public/EODIE). EODIE has been used in several projects related to agriculture and forestry - examples can be seen in the presentation uploaded into certificates directory. 
