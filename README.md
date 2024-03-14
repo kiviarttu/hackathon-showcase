@@ -4,7 +4,7 @@ This repository is for showcasing knowledge on Python, R and bash scripting lang
 
 ## Projects
 
-Most of the example codes here were used in the project ["Advanced spatial data on agricultural peat soils in Finland"](https://www.luke.fi/en/projects/maatu-01). [A project report (in Finnish)](https://jukuri.luke.fi/handle/10024/554258) has been released, and a scientific publication is being prepared for submission. My role in the project was to prepare satellite data into country-wide mosaics to be used as explanatory variables in machine learning models. In addition, I was responsible for organising all the data used in the project in an organized way and fixing some minor issues with datasets from other sources. 
+Most of the example codes here were used in the project ["Advanced spatial data on agricultural peat soils in Finland"](https://www.luke.fi/en/projects/maatu-01). [A project report (in Finnish)](https://jukuri.luke.fi/handle/10024/554258) has been released, and a scientific publication is being prepared for submission. My role in the project was to prepare satellite data into country-wide mosaics to be used as explanatory variables in machine learning models. In addition, I was responsible for storing all the data used in the project in an organized way and fixing some minor issues with datasets from other sources. 
 
 ## EODIE
 
