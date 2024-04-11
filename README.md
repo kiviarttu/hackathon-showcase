@@ -1,6 +1,6 @@
 # IIASA Hackathon Showcase Repository
 
-This repository is for showcasing knowledge on Python, R and bash scripting languages and present course certificates related to machine learning and satellite data usage in research. 
+This repository is for showcasing knowledge on Python, R and bash scripting languages and presenting course certificates related to machine learning and satellite data usage in research. 
 
 ## Projects
 
